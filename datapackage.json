@@ -1,0 +1,1094 @@
+{
+  "resources": [
+    {
+      "name": "cement-emissions",
+      "path": "data/cement-emissions.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "Afghanistan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Albania",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Algeria",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Angola",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Argentina",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Armenia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Australia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Austria",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Azerbaijan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Bahamas",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Bahrain",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Bangladesh",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Barbados",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Belarus",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Belgium",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Benin",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Bhutan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Bosnia and Herzegovina",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Botswana",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Brazil",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Brunei Darussalam",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Bulgaria",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Burkina Faso",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Burundi",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Cambodia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Canada",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Cape Verde",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Chad",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Chile",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "China",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Colombia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Congo",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Costa Rica",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Côte d'Ivoire",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Croatia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Cuba",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Cyprus",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Czech Republic",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "North Korea",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Democratic Republic of the Congo",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Denmark",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Djibouti",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Dominican Republic",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Ecuador",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Egypt",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "El Salvador",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Eritrea",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Estonia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Ethiopia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Fiji",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Finland",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "France",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "French Guiana",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "French Indochina",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "French West Africa",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Gabon",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Georgia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Germany",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Ghana",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Greece",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Guadeloupe",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Guatemala",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Guinea",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Haiti",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Honduras",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Hong Kong",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Hungary",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Iceland",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "India",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Indonesia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Iraq",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Ireland",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Iran",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Israel",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Italy",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Jamaica",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Japan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Jordan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Kazakhstan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Kenya",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Kuwait",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Kyrgyzstan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Laos",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Latvia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Lebanon",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Liberia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Libya",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Lithuania",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Luxembourg",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Macedonia (Republic of)",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Madagascar",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Malawi",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Malaysia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Mali",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Martinique",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Mexico",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Mongolia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Morocco",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Mozambique",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Myanmar",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Namibia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Nepal",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Netherlands",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "New Caledonia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "New Zealand",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Nicaragua",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Niger",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Nigeria",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Norway",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Oman",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Pakistan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Panama",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Papua New Guinea",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Paraguay",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Peru",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Philippines",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Bolivia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Poland",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Portugal",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Qatar",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Cameroon",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "South Korea",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Moldova",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Sudan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Réunion",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Romania",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Russia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Rwanda",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Ryukyu Islands",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Saudi Arabia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Senegal",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Serbia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Sierra Leone",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Singapore",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Slovakia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Slovenia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Somalia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "South Africa",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Spain",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Sri Lanka",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Suriname",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Sweden",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Switzerland",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Syria",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Taiwan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Tajikistan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Thailand",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Togo",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Trinidad and Tobago",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Tunisia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Turkey",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Turkmenistan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Uganda",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Ukraine",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "United Arab Emirates",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "United Kingdom",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Tanzania",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "USA",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Uruguay",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "USSR",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Uzbekistan",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Venezuela",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Viet Nam",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Yemen",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Zambia",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "Zimbabwe",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "World",
+            "type": "number",
+            "description": ""
+          }
+        ],
+        "primaryKey": "Year"
+      }
+    },
+    {
+      "name": "unfccc-2017",
+      "path": "data/unfccc-2017.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "AUS",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "AUT",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "BEL",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "BGR",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "BLR",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "CAN",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "CHE",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "CYP",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "CZE",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "DEU",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "DNK",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "ESP",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "EST",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "FIN",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "FRA",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "GBR",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "GRC",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "HRV",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "HUN",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "IRL",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "ISL",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "ITA",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "JPN",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "KAZ",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "LIE",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "LTU",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "LUX",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "LVA",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "MLT",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "NLD",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "NOR",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "NZL",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "POL",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "PRT",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "ROU",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "RUS",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "SVK",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "SVN",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "SWE",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "TUR",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "UKR",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "USA",
+            "type": "number",
+            "description": ""
+          }
+        ],
+        "primaryKey": "Year"
+
+      }
+    }
+  ],
+  "name": "co2-emissions-cement",
+  "title": "Data Package of CO₂ emissions from cement production",
+  "description": "Data Package of CO₂ emissions from cement production",
+  "homepage": "https://github.com/openclimatedata/co2-emissions-cement",
+  "license": "CC BY 4.0",
+  "repository": "git://github.com/openclimatedata/co2-emissions-cement.git",
+  "sources": [
+    {
+      "path": "http://doi.org/10.5281/zenodo.831455",
+      "name": "Global CO2 emissions from cement production"
+    }
+  ]
+}
