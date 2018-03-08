@@ -1,0 +1,7 @@
+wheel
+pandas
+xlrd
+goodtables
+pyicu
+git+https://github.com/alephdata/countrynames@remove-pycountry
+requests-html
